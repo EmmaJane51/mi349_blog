@@ -29,3 +29,12 @@ p {
     float: left;
     margin-right: 10px;
 }
+section {
+    background: #ccc;
+    display: flex;
+}
+article {
+    background: #999;
+    padding: 20px;
+    margin: 20px;
+}
