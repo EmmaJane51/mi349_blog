@@ -24,8 +24,8 @@ p {
 }
 .img-container {
     background: lightgreen;
-    height: 50px;
-    width: 50px;
+    height: 15px;
+    width: 15px;
     float: left;
     margin-right: 10px;
 }
