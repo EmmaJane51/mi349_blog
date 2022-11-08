@@ -22,3 +22,10 @@ p {
     position: sticky;
     top: 0;
 }
+.img-container {
+    background: lightgreen;
+    height: 50px;
+    width: 50px;
+    float: left;
+    margin-right: 10px;
+}
