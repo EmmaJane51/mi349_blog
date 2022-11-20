@@ -40,3 +40,9 @@ article {
     padding: 20px;
     margin: 20px;
 }
+
+@media screen and (max-width: 400px) {
+    body {
+        color: blue;
+    }
+}
